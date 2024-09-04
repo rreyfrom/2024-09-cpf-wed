@@ -7,3 +7,4 @@
 |:-----:|:------:|
 | 1  | Hello world |
 | 2 | Github Classroom |
+| 3 | Github Actions |
